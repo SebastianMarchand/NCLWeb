@@ -1,11 +1,3 @@
-/*
-	Comment
-*/
-
-a { /* Comment */ color: /* Comment */ Red; }
-
-.TestClass {
-	color: Black;
-	background-color: White;
-	text-align: left;
+body {
+    font-family: Arial, sans-serif;
 }
