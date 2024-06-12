@@ -1,0 +1,9 @@
+image: python:3.10
+
+tasks:
+  - name: Setup
+    command: pip install -r requirements.txt
+
+ports:
+  - port: 5000
+    onOpen: open-preview
