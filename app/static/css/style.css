@@ -10,10 +10,12 @@ img {
     height: auto;
 }
 
-/* Basic styles for the content */
+
 .content {
     position: relative;
     padding: 20px;
     text-align: center;
 }
+
+
 
